@@ -23,6 +23,38 @@
       "category": "Saúde",
       "price": 134,
       "createdAt": "2024-10-07T13:52:02.219Z"
+    },
+    {
+      "description": "Venda de Camarão",
+      "category": "salario",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2024-10-12T00:15:12.403Z",
+      "id": 4
+    },
+    {
+      "description": "Comida das semanas",
+      "category": "mercado",
+      "price": 600,
+      "type": "outcome",
+      "createdAt": "2024-10-12T00:16:42.628Z",
+      "id": 5
+    },
+    {
+      "description": "coxinha",
+      "category": "alimentação",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2024-10-12T01:03:56.256Z",
+      "id": 6
+    },
+    {
+      "description": "iogurte",
+      "category": "alimentação",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2024-10-12T01:08:55.179Z",
+      "id": 7
     }
   ]
 }
